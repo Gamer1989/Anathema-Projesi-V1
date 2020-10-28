@@ -1,0 +1,55 @@
+/* Navbar Section */
+.navbar {
+    background-color:  #062E51;
+    font-family: 'Syne Mono', monospace;
+}
+
+.list-group-item {
+    font-size: 1.3rem;
+}
+/*---------------------------------------------------------- */
+
+/* Body Section */
+.home-section {
+    background-size: cover;
+}
+
+#bandsum {
+    justify-self: center;
+}
+
+#bandsum h2 {
+    margin: 0.5rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 1.75rem;
+}
+
+#bandsum p {
+    opacity: 0.8;
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    font-weight: 430;
+}
+
+#band {
+    background-color: #062E51;
+}
+
+#band p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#band #sum-info {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#band #sum-info #sum-info-2 h5 { 
+    font-size: 1.2rem;
+}
+
+#band #sum-info #sum-info-2 .list-group-item {
+    background-color: #062E51;
+    font-size: 1rem;
+    color: white;
+}
